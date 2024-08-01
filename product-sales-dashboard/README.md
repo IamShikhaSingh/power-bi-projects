@@ -15,4 +15,4 @@
 
 ### Dashboard Page
 
-![Alt text](/indicating-business-performance/screenshots/SalesReport_S.png?raw=true "title")
+![Alt text](/product-sales-dashboard/screenshots/SalesReport_S.png?raw=true "title")
